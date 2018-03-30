@@ -1,6 +1,6 @@
 <?php
 
-namespace Piwik\GithubSync;
+namespace Matomo\GithubSync;
 
 use ArrayComparator\ArrayComparator;
 

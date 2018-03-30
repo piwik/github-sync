@@ -1,6 +1,6 @@
 <?php
 
-namespace Piwik\GithubSync;
+namespace Matomo\GithubSync;
 
 use Github\Client;
 use Github\Exception\RuntimeException;

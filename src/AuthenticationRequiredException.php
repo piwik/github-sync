@@ -1,6 +1,6 @@
 <?php
 
-namespace Piwik\GithubSync;
+namespace Matomo\GithubSync;
 
 class AuthenticationRequiredException extends \Exception
 {
