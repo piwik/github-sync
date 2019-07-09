@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-use Piwik\GithubSync\SyncCommand;
+use Matomo\GithubSync\SyncCommand;
 use Symfony\Component\Console\Application;
 
 require_once __DIR__ . '/vendor/autoload.php';

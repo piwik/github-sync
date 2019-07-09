@@ -1,6 +1,6 @@
 <?php
 
-namespace Piwik\GithubSync;
+namespace Matomo\GithubSync;
 
 use Symfony\Component\Console\Helper\QuestionHelper;
 use Symfony\Component\Console\Input\InputInterface;
